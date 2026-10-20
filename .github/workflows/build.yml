@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false      
       matrix:
-        target: [e1s, e2s, e3q, r12s]
+        target: [e1s, e2s, r12s]
 
     steps:  
       
